@@ -1,2 +1,2 @@
 # ETP_PRACTICAL
-HIi This is new repo
+Hii This is new repo
